@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Brick.png</file>
+        <file>Image/BrickBlock.png</file>
+        <file>Image/Armored.png</file>
+        <file>Image/Armored2.png</file>
+        <file>Image/Armored3.png</file>
+        <file>Image/Brick2.png</file>
+        <file>Image/Brick3.png</file>
+        <file>Image/Net.png</file>
+        <file>Image/Pig.png</file>
+        <file>Image/map1.xml</file>
+    </qresource>
+</RCC>
